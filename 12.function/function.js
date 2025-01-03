@@ -9,4 +9,4 @@ function segitiga (a) {
     }
 }
 
-segitiga(1)
+console.log(segitiga(1))
